@@ -4,10 +4,11 @@
            id="org.apache.cordova.notification"
       version="0.1.0">
 
-    <name>PushNotificationPlugin</name>
+    <name>PushNotification</name>
     <description>Cordova PushNotification Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,pushnotification</keywords>
+    <repo>https://github.com/juvs/cordova-plugin-pushnotifications.git</repo>	
 
     <js-module src="www/PushNotification.js" name="PushNotification">
         <clobbers target="PushNotification" />
